@@ -1,6 +1,6 @@
 {
-  "name": "@triphop/npl",
-  "version": "0.0.1",
+  "name": "nplist",
+  "version": "0.0.0",
   "description": "my own testbed",
   "main": "index.js",
   "scripts": {
