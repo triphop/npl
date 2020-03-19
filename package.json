@@ -1,7 +1,7 @@
 {
-  "name": "process-list",
-  "version": "2.0.0",
-  "description": "Cross-platform method to receive the list of the launched processes",
+  "name": "@triphop/npl",
+  "version": "0.0.1",
+  "description": "my own testbed",
   "main": "index.js",
   "scripts": {
     "test": "ava test/*.js && prebuild-ci",
@@ -9,10 +9,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/reklatsmasters/node-process-list.git"
+    "url": "git://github.com/triphop/npl.git"
   },
   "bugs": {
-    "url": "https://github.com/reklatsmasters/node-process-list/issues"
+    "url": "https://github.com/triphop/npl/issues"
   },
   "license": "MIT",
   "engines": {
@@ -33,8 +33,8 @@
     "forever"
   ],
   "author": {
-    "name": "Dmitry Tsvettsikh",
-    "email": "me@reklatsmasters.com"
+    "name": "triphop",
+    "email": "yanshoutong@outlook.com"
   },
   "devDependencies": {
     "ava": "^0.25.0",
