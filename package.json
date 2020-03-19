@@ -9,10 +9,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/triphop/npl.git"
+    "url": "git://github.com/triphop/nplist.git"
   },
   "bugs": {
-    "url": "https://github.com/triphop/npl/issues"
+    "url": "https://github.com/triphop/nplist/issues"
   },
   "license": "MIT",
   "engines": {
