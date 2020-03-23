@@ -36,6 +36,9 @@
     "name": "triphop",
     "email": "yanshoutong@outlook.com"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "ava": "^0.25.0",
     "prebuild": "^9.1.1",
