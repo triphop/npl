@@ -1,6 +1,6 @@
 {
   "name": "nplist",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "my own testbed",
   "main": "index.js",
   "scripts": {
