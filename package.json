@@ -40,7 +40,7 @@
     "access": "public"
   },
   "devDependencies": {
-    "ava": "^0.25.0",
+    "ava": "^5.1.0",
     "prebuild": "^9.1.1",
     "prebuild-ci": "^3.1.0"
   },
